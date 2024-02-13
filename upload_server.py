@@ -5,7 +5,7 @@ import discord
 from dotenv import load_dotenv
 
 load_dotenv()
-TOKEN = os.getenv('MTIwNjk5NjgwNDA3MjI1MTM5Mg.G6GLzM.AC01vSv-pUbsmayCAXIMaV7vBMTfHSFYNHRh1A')
+TOKEN = os.getenv('MTIwNjk5NjgwNDA3MjI1MTM5Mg.GJumAI.HTDpo-0w7mBGdz9laWn_HM7ousQJQSjGXdbIIs')
 GUILD = os.getenv('1206997917022294136')
 CHANNEL_ID = os.getenv('1206998630796365836')
 
